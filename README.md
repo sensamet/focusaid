@@ -15,7 +15,7 @@ Focusaid is a premium, high-performance focus timer application designed to turn
 
 | Landing Page | Timer Running | Reward Achievement |
 | :---: | :---: | :---: |
-| ![Landing](./screenshots/landing.png) | ![Timer](./screenshots/timer.png) | ![Reward](./screenshots/reward.png) |
+| ![Landing](https://raw.githubusercontent.com/sensamet/focusaid/main/screenshots/landing.png) | ![Timer](https://raw.githubusercontent.com/sensamet/focusaid/main/screenshots/timer.png) | ![Reward](https://raw.githubusercontent.com/sensamet/focusaid/main/screenshots/reward.png) |
 
 ## 🛠️ Technology Stack
 
